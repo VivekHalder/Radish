@@ -1,0 +1,6 @@
+# Build output (make / make asan)
+build/
+build-asan/
+
+# Python
+__pycache__/
