@@ -9,6 +9,12 @@ A Redis-compatible server written from scratch in C11.
 
 - Write ONE file at a time. Then stop and wait for the user's review before starting the next file.
 
+## Teaching mode
+
+- Before writing each file, explain in under 10 lines: what it does, the key design choice, and one alternative you rejected and why.
+- If the user says "I'll write this one", give only the function signatures and test cases. Then review their code like a strict senior reviewer.
+- After each milestone, ask the user 3 questions about the design to check their understanding.
+
 ## Git
 
 - Remote: `origin` = https://github.com/VivekHalder/Radish
